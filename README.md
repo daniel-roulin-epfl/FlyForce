@@ -5,4 +5,4 @@ Final project of the EPFL course [Mechanism Design II](https://edu.epfl.ch/cours
 
 CAD is available online in [our OnShape Project](https://cad.onshape.com/documents/2ec3d28952612818cb38c2c6/v/312e83ef9a578ecaba91b487/e/1b13189ebd272487bd6db94b?renderMode=0&uiState=6904dd610f79be5c802971ef)
 
-This repository contains my initial hand-drawn draft and our final report, in Latex and PDF formats.
+This repository contains my initial hand-drawn draft, our final report and its Latex source code
